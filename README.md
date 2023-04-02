@@ -1,5 +1,6 @@
 # EDA-FOR-GEELY-AUTOMOBILE-SERVICES
 
+![display](https://github.com/bopitien/EDA-FOR-GEELY-AUTOMOBILE-SERVICES/blob/main/geely.PNG)
 
 ## Problem Statement
 
