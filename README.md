@@ -18,3 +18,12 @@ Based on various market surveys, you have gathered a large data set of different
 
 
 You are required to explore the Dataset, and come up with insights that will aid the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. This Exploration will be a good way for management to understand the pricing dynamics of a new market.
+
+
+## Overall Summary
+
+* According to the findings, car length, width, wheelbase, and horsepower are reliable indicators of car costs.
+
+* City mpg should be kept to a minimum for best performance, and geely manufacturers might think about building automobiles with OHC engine types to increase their share of the market.
+
+* To compete with other car manufacturers in Nigeria, the company should take into consideratio citympg, car length, car width, and engine type and stroke, as these factors have been shown to have a strong positive correlation with car prices.
